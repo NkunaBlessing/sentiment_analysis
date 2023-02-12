@@ -18,5 +18,7 @@ The Naïve Bayes classified more negative reviews than positive reviews which ma
 
 ![newData](https://user-images.githubusercontent.com/76872493/218313798-f8b06131-89b6-43ba-82d9-a2de4aca0235.png)
 
+![Screenshot (87)](https://user-images.githubusercontent.com/76872493/218313923-9da27bc5-fccc-4f76-ab60-a8251ef352b9.jpg)
+
 ![svmpicture](https://user-images.githubusercontent.com/76872493/218313732-37b150e7-4fda-4f10-913a-a4fffcc0591e.png)
 
